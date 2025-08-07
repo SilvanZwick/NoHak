@@ -78,7 +78,7 @@ exit /b 0
         echo.
         echo ERROR: This script is not running in Windows PE.
         echo        Please follow the instructions at
-        echo        https://files.catbox.moe/rs0vif.txt to
+        echo        https://files.catbox.moe/8bzair.txt to
         echo        boot into Windows PE.
     )
 
